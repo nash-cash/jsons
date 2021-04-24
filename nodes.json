@@ -1,6 +1,7 @@
 {
   "nodes": [
-    {"name": "Official NashCash Europe",
+    {
+     "name": "Official NashCash Europe",
      "url": "167.86.79.105",
      "port": 24888,
      "ssl": false,
